@@ -1,0 +1,20 @@
+{
+	"Chest Rush" : {
+
+		"Version" : "0.0.1.al",
+
+		"Build" : "0.0.1.al.<%>.11.27.19",
+		
+		"Description" : "THE FOUNDER UPDATE",
+
+		"Notes" : "notes.txt",
+		
+		"Tree" : [
+			
+			["CRE","./config/WTF/"],
+			
+			["CRE","./engine/salut.txt","Salut les nazes !"]
+			
+		]
+	}
+}

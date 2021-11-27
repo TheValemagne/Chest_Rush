@@ -1,0 +1,65 @@
+Builded the 06-10-2020 at 11h07
+
+Build number : 0.0.1.al.<%>.11.27.19
+
+LOGS REGISTERED :
+
+[11:07:31] : Master __init__() ran with success
+[11:07:32] : pygame __init__() ran with success
+[11:07:32] : getting coordinates for alignation
+[11:07:32] : align_Window() ran with success
+[11:07:32] : getting screen sizes
+[11:07:32] : screen sizes acquired with success
+[11:07:32] : center coordinates calculated
+[11:07:32] : coordinates for window alignation set
+[11:07:32] : Master alignated on screen
+[11:07:32] : Master overrided with success
+[11:07:32] : Master topmost activated
+[11:07:32] : Master transparentcolor assignated
+[11:07:32] : setting icon file
+[11:07:32] : icon file set with success
+[11:07:32] : creating canvas
+[11:07:32] : canvas created with success
+[11:07:32] : canvas placed on Master with success
+[11:07:32] : splash screen one image created with success
+[11:07:32] : splash screen two image created with success
+[11:07:32] : creating pygame.mixer
+[11:07:32] : pygame.mixer created with success
+[11:07:32] : starting splash sound
+[11:07:32] : splash sound playing with success
+[11:07:32] : launching splash screen
+[11:07:33] : splash_Screen() ran with success
+[11:07:33] : creating splash screen image
+[11:07:33] : create_Image() ran with success
+[11:07:33] : creating first splash screen image
+[11:07:33] : first splash screen created with success
+[11:07:33] : splash screen created with success
+[11:07:35] : create_Image() ran with success
+[11:07:35] : old splash screen image deleted
+[11:07:35] : new splash screen image created with success
+[11:07:35] : creating loading bar
+[11:07:35] : loading bar created with success
+[11:07:35] : fetching cache data
+[11:07:35] : data fetched from cache
+[11:07:35] : launching version verification process
+[11:07:35] : check_Game_Version() ran with success
+[11:07:35] : verifying game version
+[11:07:36] : game version and response acquired with success
+[11:07:36] : client is running on an old version
+[11:07:36] : asking update to user
+[11:07:46] : initialisation succeed
+[11:07:46] : platform identified
+[11:07:46] : client running on a x64 structure
+[11:07:46] : Master __init__ () set
+[11:07:46] : Master title set
+[11:07:46] : Player authenticated
+[11:07:46] : Calculating window sizes
+[11:07:46] : Window sizes calculated
+[11:07:46] : Initializing Pygame
+[11:07:46] : Pygame initialised
+[11:07:46] : Getting coordinates for alignement
+[11:07:46] : Coordinates set
+[11:07:46] : Window alignated
+[11:07:46] : Creating canvas
+[11:07:46] : Canvas created
+[11:07:46] : Canvas placed on screen

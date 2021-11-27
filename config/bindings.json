@@ -1,0 +1,13 @@
+{
+   "Presets":{
+      "KEYS":{
+         "up":122,
+         "down":115,
+         "right":100,
+         "left":113,
+         "primary weapon":38,
+         "interact":101,
+         "chat":121
+      }
+   }
+}
